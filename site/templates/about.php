@@ -1,7 +1,10 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
-<?php echo $page->about()->kirbytext() ?>
+<div class="about">
+  <?php echo $page->about()->kirbytext() ?>
+</div>
+
 
 
 <?php snippet('footer') ?>
