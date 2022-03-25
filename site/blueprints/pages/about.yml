@@ -3,4 +3,15 @@ fields:
   about:
     headline: About Me
     type: textarea
-    size: large
+    size: medium
+  education:
+    headline: Education
+    type: textarea
+    size: medium
+  solo:
+    headline: Solo Exhibitions
+    type: textarea
+    size: medium
+  group:
+    type: textarea
+    size: medium
