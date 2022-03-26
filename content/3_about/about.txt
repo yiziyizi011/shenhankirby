@@ -4,18 +4,17 @@ Title: About
 
 About:
 
-[EN]
+**[Shen Han]**
 
 
 Shen Han was born in Hangzhou in 1988. He now lives and works in Berlin. 
-
 Shen pursues the relationship between instincts and body movements in the process of marks making, connecting gestures to perceptions in the dominance of rather abstract images. His work usually does not have a planned subject matter, but initiates from the fluid consciousness in actions, creating an ambiguous tension onto the pictorial plane with basic painterly elements such as random shapes and broken lines. While working on his canvas, the pictorial assembly of laboring process will either diligently become loaded in favor of or against a visual comprehension through beholding, connecting the brain’s memory in the attempt of reading the seemingly half-way completed imageries, hence to depict and explore the human desires in a chaos of visual ecstasy.
 
 ----
 
 Education:
 
-Education 
+**Education **
 
 2017 MA Fine Arts Absolventin, Berlin University of the Arts, Berlin, Germany
 
@@ -23,7 +22,8 @@ Education
 
 Solo:
 
-Solo Exhibitions 
+**Solo Exhibitions **
+
 
 2019 Intimate Morphology, Gallery Vacancy, Shanghai, China 
 
@@ -33,7 +33,7 @@ Solo Exhibitions
 
 Group:
 
-Group Exhibitions 
+**Group Exhibitions **
 
 
 2021 Pink is the New Black, Room 6 x 8, Beijing, China 
@@ -71,3 +71,28 @@ Group Exhibitions
 2016 Shen Han, Clara Thorbecke Duo Project, Atelierhaus, Recklinghausen, Germany 2015 In Out , Qin Zhe Art Center, Hangzhou, China 
 
 2014 LUXUS+, Museum FLUXUS+, Potsdam, Germany
+
+----
+
+Aboutcn:
+
+**沈翰**
+
+1988 出生于浙江杭州
+工作生活于柏林
+
+----
+
+Educationcn:
+
+**学历**
+
+毕业于柏林艺术大学自由艺术系硕士，柏林，德国
+
+----
+
+Solocn: 
+
+----
+
+Groupcn: 

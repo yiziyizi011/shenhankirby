@@ -16,3 +16,19 @@ fields:
     headline: Group Exhibitions
     type: textarea
     size: medium
+  aboutcn:
+    headline: About Me
+    type: textarea
+    size: medium
+  educationcn:
+    headline: Education
+    type: textarea
+    size: medium
+  solocn:
+    headline: Solo Exhibitions
+    type: textarea
+    size: medium
+  groupcn:
+    headline: Group Exhibitions
+    type: textarea
+    size: medium
