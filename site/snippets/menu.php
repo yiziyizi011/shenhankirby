@@ -10,6 +10,9 @@
     <div class="menu-item">
       <a href="<?= $year->url() ?>"><?= $year->title() ?></a>
     </div>
+  <div class="menu-item">
+    <a href="<?= $site->find('contact')->url() ?>"><?= $site->find('contact')->title() ?></a>
+  </div>
   <?php endforeach; ?>
 
 </div>

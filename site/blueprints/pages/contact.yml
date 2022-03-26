@@ -1,0 +1,6 @@
+title: contact
+fields:
+  about:
+    headline: About Me
+    type: textarea
+    size: medium
