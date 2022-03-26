@@ -13,5 +13,6 @@ fields:
     type: textarea
     size: medium
   group:
+    headline: Group Exhibitions
     type: textarea
     size: medium
