@@ -3,7 +3,7 @@
 
 <div class="contact">
   <div class="email">
-    <?php echo instagram:shenhanstudio ?>
+
   </div>
 </div>
 
