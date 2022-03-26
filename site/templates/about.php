@@ -14,6 +14,21 @@
   <div class="group">
     <?php echo $page->group()->kirbytext() ?>
   </div>
+</div>
+
+<div class="textwrapperCN">
+  <div class="aboutCN">
+    <?php echo $page->aboutcn()->kirbytext() ?>
+  </div>
+  <div class="educationCN">
+    <?php echo $page->educationcn()->kirbytext() ?>
+  </div>
+  <div class="soloCN">
+    <?php echo $page->solocn()->kirbytext() ?>
+  </div>
+  <div class="groupCN">
+    <?php echo $page->groupcn()->kirbytext() ?>
+  </div>
 
 </div>
 

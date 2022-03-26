@@ -6,73 +6,15 @@ Name: Exhibition I
 
 ----
 
-Start: 2021-12-01
+Start: 
 
 ----
 
-End: 2021-12-10
+End: 
 
 ----
 
-Description:
-
-[EN]
-
-
-Shen Han was born in Hangzhou in 1988. He now lives and works in Berlin. 
-Shen pursues the relationship between instincts and body movements in the process of marks making, connecting gestures to perceptions in the dominance of rather abstract images. His work usually does not have a planned subject matter, but initiates from the fluid consciousness in actions, creating an ambiguous tension onto the pictorial plane with basic painterly elements such as random shapes and broken lines. While working on his canvas, the pictorial assembly of laboring process will either diligently become loaded in favor of or against a visual comprehension through beholding, connecting the brain’s memory in the attempt of reading the seemingly half-way completed imageries, hence to depict and explore the human desires in a chaos of visual ecstasy.  
-
-
-Education 
-
-2017 MA Fine Arts Absolventin, Berlin University of the Arts, Berlin, Germany 
-
-
-Solo Exhibitions 
-
-2019 Intimate Morphology, Gallery Vacancy, Shanghai, China 
-
-2019 The Trajectory of Dream, PB PROJECT, Galerie Paris-Beijing, Paris, France 2016 Open Up, Edmond Gallery, Berlin, Germany 
-
-
-Group Exhibitions 
-
-
-2021 Pink is the New Black, Room 6 x 8, Beijing, China 
-
-2021 On Behalf Of, Qiao Space, Shanghai, China 
-
-2020 MAGNET: Fleeting Forces in Forms, Gallery Vacancy, Shanghai, China 
-
-2020 Painting and Existence, Tang Contemporary Art, Beijing, China 
-
-2020 MESSE IN ST. AGNES #2, König Galerie, Berlin, Germany 
-
-2019 Condo Shanghai 2019, Gallery Vacancy, Shanghai, China 
-
-2019 Yellow Reflection, Galerie Liusa Wang, Paris, France 
-
-2017 Gestus und Zeichen, Galerie Anette Müller, Düsseldorf, Germany 
-
-2017 World History, Tang Contemporary Art, Bangkok, Thailand 
-
-2017 Partial Archive, Yellspace, Shanghai, China 
-
-2016 On Drawing: Apperceive of Liberation, Wuhan Art Museum, Wuhan, China 
-
-2016 11.11 Der Elfte November, Colonia nova, Berlin, Germany 
-
-2016 Ping Pong, Atelierhaus, Recklinghausen, Germany 
-
-2016 Berlin School of Painting, Art Supermarket Project, Berlin, Germany 
-
-2016 Aurum, LEE Galerie, Berlin, Germany 
-
-2016 Berlin School of Painting, Basel Project, Villa Renata, Basel, Switzerland 
-
-2016 Shen Han, Clara Thorbecke Duo Project, Atelierhaus, Recklinghausen, Germany 2015 In Out , Qin Zhe Art Center, Hangzhou, China 
-
-2014 LUXUS+, Museum FLUXUS+, Potsdam, Germany
+Description: 
 
 ----
 
@@ -80,3 +22,4 @@ Images:
 
 - home4.jpeg
 - home1.jpg
+- home3.jpg

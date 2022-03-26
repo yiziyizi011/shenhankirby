@@ -57,18 +57,36 @@
 }
 
 .textwrapper{
-  margin-left: 20vw;
-  margin-right: 20vw;
-  font-size: 1.2em;
+  margin-left: 23vw;
+  margin-right: 25vw;
+  font-size: 1.1em;
+  font-family: Optima;
 }
 
-.about{
+.textwrapperCN{
+  margin-left: 23vw;
+  margin-right: 25vw;
+  font-size: 1.1em;
+  font-family: STXihei;
+}
+
+.about, .aboutCN{
   margin-top: 14vh;
 }
 
-.education, .solo, .group{
+.education, .solo, .group,.educationCN,.soloCN{
   margin-top: 8vh;
 }
+
+.groupCN{
+  margin-top: 8vh;
+  margin-bottom: 20vh;
+}
+
+
+
+
+
 
 .swiper-wrapper img{
   /* object-fit: contain; */

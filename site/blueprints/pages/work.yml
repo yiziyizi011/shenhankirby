@@ -9,10 +9,8 @@ fields:
     label: 标题
     type: text
   when:
-    label: 年份
-    type: date
-    display: YYYY/MM
-    step: month
+    label: title
+    type: text
   size:
     label: 尺寸
     type: text
