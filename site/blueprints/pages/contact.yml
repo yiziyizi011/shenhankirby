@@ -1,6 +1,6 @@
 title: contact
 fields:
-  about:
-    headline: About Me
+  contact:
+    headline: Contact
     type: textarea
     size: medium
