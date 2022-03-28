@@ -1,7 +1,9 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
-<div class="swiper mySwiper">
+<?= css('assets/css/home.css') ?>
+
+<div class="swiper mySwiperHome">
   <div class="swiper-wrapper">
 
 <?php foreach($page->children() as $exhi) : ?>

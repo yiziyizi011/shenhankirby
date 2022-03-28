@@ -8,6 +8,21 @@
           nextEl: ".swiper-button-next",
           prevEl: ".swiper-button-prev",
         },
+        centeredSlides: true,
+        loop: true,
+      });
+
+      var swiper = new Swiper(".mySwiperHome", {
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+        autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+        },
+        centeredSlides: true,
+        loop: true,
       });
     </script>
 

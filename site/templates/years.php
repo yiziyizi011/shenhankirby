@@ -1,6 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
+<?= css('assets/css/year.css') ?>
 
 <div class="swiper mySwiper works">
   <div class="swiper-wrapper works-wrapper">
