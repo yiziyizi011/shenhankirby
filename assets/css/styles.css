@@ -158,3 +158,15 @@
 .zoomImg:hover{
     cursor: pointer;
 }
+
+.textwrapper a{
+  color: black;
+  opacity: 0.2;
+  text-decoration: none;
+  transition-duration: 0.5s;
+}
+
+.textwrapper a:hover{
+  opacity: 1;
+  transition-duration: 0.5s;
+}

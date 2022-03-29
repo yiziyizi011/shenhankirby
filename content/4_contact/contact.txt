@@ -2,4 +2,7 @@ Title: Contact
 
 ----
 
-Contact: email: (link: mailto:test@gmail.com text: test@gmail.com)
+Contact:
+
+(link: mailto:shenhan0209@gmail.com text: shenhan0209@gmail.com)
+(link: www.galleryvacancy.com text: www.galleryvacancy.com)
