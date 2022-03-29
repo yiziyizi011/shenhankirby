@@ -4,7 +4,7 @@ Title: 6
 
 Image:
 
-- shenhan_-diptych_-2_-2.jpg
+- 'shenhan_  Diptych_ 2_ 2.jpg'
 
 ----
 
