@@ -33,6 +33,7 @@
   /* height: 2em; */
   /* background-color: white; */
   width: 100vw;
+  overflow-x: scroll;
   position: fixed;
   top: 0;
   left: 0;
@@ -50,6 +51,7 @@
   margin-top: 1em;
   font-size: 1.5em;
   font-family: 'Inter', sans-serif;
+  white-space: nowrap;
 }
 
 .swiper{
@@ -94,7 +96,38 @@
   transition-duration: 0.5s;
 }
 
+.swiper-button-next{
+  position: fixed!important;
+  right: 2em!important;
+}
 
+.swiper-button-prev{
+  position: fixed!important;
+  left: 2em!important;
+}
+
+.swiper-button-next svg:hover{
+  fill: black;
+  transition-duration: 0.5s;
+}
+
+.swiper-button-prev svg:hover{
+  fill: black;
+  transition-duration: 0.5s;
+}
+
+.swiper-button-next svg, .swiper-button-prev svg{
+  fill: #00000000;
+  transition-duration: 0.5s;
+}
+
+.swiper-button-next::after{
+  display: none;
+}
+
+.swiper-button-prev::after{
+  display: none;
+}
 
 .swiper-wrapper figure{
   height: 100%;

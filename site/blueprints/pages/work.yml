@@ -5,15 +5,7 @@ fields:
     type: files
     query: page.images
     multiple: false
-  title:
-    label: 标题
-    type: text
-  when:
-    label: title
-    type: text
-  size:
-    label: 尺寸
-    type: text
-  material:
-    label: 材料
-    type: text
+  info:
+    label: info
+    type: textarea
+    size: small
