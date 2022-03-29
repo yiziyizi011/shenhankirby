@@ -6,3 +6,4 @@ Contact:
 
 (link: mailto:shenhan0209@gmail.com text: shenhan0209@gmail.com)
 (link: www.galleryvacancy.com text: www.galleryvacancy.com)
+(link: https://www.instagram.com/shenhan_studio/ text: Instagram: shenhan_studio)
