@@ -154,3 +154,7 @@
   z-index: 200;
   background-color: white;
 }
+
+.zoomImg:hover{
+    cursor: pointer;
+}
