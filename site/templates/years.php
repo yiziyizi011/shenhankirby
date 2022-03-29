@@ -2,13 +2,14 @@
 <?php snippet('menu') ?>
 
 <?= css('assets/css/year.css') ?>
+<?= js('assets/js/jquery.zoom.min.js') ?>
 
 <div class="swiper mySwiper works">
   <div class="swiper-wrapper works-wrapper">
     <?php foreach($page->children() as $project) : ?>
-      <div class="swiper-slide" data-info=<?php $project->info()->kirbytext() ?>>
+      <div class="swiper-slide" data-info="<?= $project->info()->kirbytext() ?>">
         <?php foreach($project->images() as $image): ?>
-        <figure>
+        <figure class="zoom">
           <img src="<?= $image->url() ?>" alt="">
         </figure>
         <?php endforeach ?>
@@ -17,9 +18,11 @@
 
   </div>
 </div>
-<div class="info">
 
+<div class="info">
+  <?= $page->children()->first()->info()->kirbytext() ?>
 </div>
+
 <div class="swiper-button-next">
   <svg viewBox="0 0 29 67" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path d="M1.8327 3.48882L1.24991 3.69575L1.57431 4.22227L19.6127 33.5L1.57431 62.7777L1.24991 63.3042L1.8327 63.5112L7.3527 65.4712L7.73069 65.6054L7.94368 65.2655L27.6837 33.7655L27.8501 33.5L27.6837 33.2345L7.94368 1.73449L7.73069 1.39461L7.3527 1.52882L1.8327 3.48882Z" stroke="black"/>

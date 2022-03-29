@@ -5,3 +5,9 @@ $('.info_b').click(function() {
 $('.info_back').click(function() {
   $('.info_text').hide();
 });
+
+
+$(document).ready(function(){
+  $('figure')
+    .zoom({on: 'click'});
+});
