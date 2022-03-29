@@ -9,7 +9,7 @@
 <?php foreach($page->children() as $exhi) : ?>
 
     <?php foreach($exhi->images() as $image): ?>
-      <div class="swiper-slide">
+      <div class="swiper-slide" data-info="<?= $exhi->info()->kirbytext() ?>">
         <figure>
           <img src="<?= $image->url() ?>" alt="">
         </figure>
@@ -28,9 +28,14 @@
     <?php endforeach ?>
 <?php endforeach ?>
 
+
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
+</div>
+
+<div class="info">
+  <?= $page->children()->first()->info()->kirbytext() ?>
 </div>
 
 

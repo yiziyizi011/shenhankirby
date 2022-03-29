@@ -6,3 +6,7 @@ fields:
     label: 图片
     type: files
     query: page.images
+  info:
+    label: 展览信息
+    type: textarea
+    size: small

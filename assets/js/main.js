@@ -9,5 +9,8 @@ $('.info_back').click(function() {
 
 $(document).ready(function(){
   $('figure')
-    .zoom({on: 'click'});
+    .zoom({
+      on: 'click',
+      touch: false
+    });
 });

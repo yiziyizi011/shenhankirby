@@ -40,6 +40,10 @@
   z-index: 100;
 }
 
+.menu::-webkit-scrollbar{
+  display:none;
+}
+
 .menu a{
   text-decoration: none;
   color: black;
@@ -98,12 +102,12 @@
 
 .swiper-button-next{
   position: fixed!important;
-  right: 2em!important;
+  right: 1em!important;
 }
 
 .swiper-button-prev{
   position: fixed!important;
-  left: 2em!important;
+  left: 1em!important;
 }
 
 .swiper-button-next svg:hover{
@@ -119,6 +123,22 @@
 .swiper-button-next svg, .swiper-button-prev svg{
   fill: #ffffff;
   transition-duration: 0.5s;
+}
+
+div.swiper-button-next, div.swiper-button-prev{
+  height: 100vh;
+  top: 0;
+  padding: 0 1em 0 1em;
+  margin: 0;
+  /* background-color: red; */
+}
+
+.swiper-button-disabled{
+  pointer-events: auto!important;
+}
+
+.swiper-button-disabled svg:hover{
+  fill:white;
 }
 
 .swiper-button-next::after{
@@ -156,7 +176,7 @@
 }
 
 .zoomImg:hover{
-    cursor: pointer;
+    cursor: url('../img/expand.svg'), pointer;
 }
 
 .textwrapper a{
@@ -169,4 +189,12 @@
 .textwrapper a:hover{
   opacity: 1;
   transition-duration: 0.5s;
+}
+
+/* mobile portrait */
+@media screen and (max-width: 468px) {
+  .textwrapper, .textwrapperCN{
+    margin-left: 2vw;
+    margin-right: 2vw;
+  }
 }
