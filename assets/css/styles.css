@@ -135,6 +135,10 @@ div.swiper-button-next, div.swiper-button-prev{
   /* background-color: red; */
 }
 
+.swiper-button-next:focus, .swiper-button-prev:focus{
+  outline: none;
+}
+
 .swiper-button-disabled{
   pointer-events: auto!important;
 }

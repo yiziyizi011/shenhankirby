@@ -45,7 +45,7 @@
                   var swiper = this;
                   var slideInfo = $(swiper.slides[swiper.activeIndex]).attr("data-info");
                   console.log(slideInfo);
-                  $(".info").first().html(function() {
+                  $(".infohome").first().html(function() {
                     return slideInfo;
                   });
               }
