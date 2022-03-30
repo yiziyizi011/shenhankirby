@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<div class="info">
+<div class="info" id="info2">
   <?= $page->children()->first()->info()->kirbytext() ?>
 </div>
 

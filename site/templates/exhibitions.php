@@ -34,7 +34,7 @@
   <div class="swiper-button-prev"></div>
 </div>
 
-<div class="infohome">
+<div class="info" id="info1">
   <?= $page->children()->first()->info()->kirbytext() ?>
 </div>
 

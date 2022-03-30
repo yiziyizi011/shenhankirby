@@ -169,7 +169,7 @@ div.swiper-button-next, div.swiper-button-prev{
   height: calc(100vh - 13em);
 }
 
-.info p{
+.info p, .infohome p{
   font-family: Optima;
   border: 1px solid black;
   width: max-content;
@@ -207,4 +207,14 @@ div.swiper-button-next, div.swiper-button-prev{
     margin-left: 2vw;
     margin-right: 2vw;
   }
+
+  .swiper-button-next svg, .swiper-button-prev svg{
+    display: none;
+  }
+
+  .info p{
+    max-width: 80vw;
+    /* text-align: center; */
+  }
+
 }
