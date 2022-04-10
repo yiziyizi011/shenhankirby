@@ -10,7 +10,7 @@
       <div class="swiper-slide" data-info="<?= $project->info()->kirbytext() ?>">
         <?php foreach($project->images() as $image): ?>
         <figure class="zoom">
-          <img src="<?= $image->url() ?>" alt="">
+          <img loading="lazy" src="<?= $image->url() ?>" alt="">
         </figure>
         <?php endforeach ?>
       </div>
